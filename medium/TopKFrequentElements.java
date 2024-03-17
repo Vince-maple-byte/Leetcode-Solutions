@@ -1,4 +1,6 @@
 //Solution for 347. Top K Frequent Elements
+//Time complexity O(n log(k))
+//Space complexity O(n)
 
 import java.util.HashMap;
 import java.util.Map;
